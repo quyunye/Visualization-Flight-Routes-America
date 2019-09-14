@@ -11,7 +11,8 @@ python2:
 python -m SimpleHTTPServer 8000
 ```
 * Then use the following links:
-* http://localhost:8000/
+
+http://localhost:8000/
 
 # 航线数据可视化
 ## 基于美国航班航线数据
@@ -28,8 +29,10 @@ python -m http.server 8000
 python -m SimpleHTTPServer 8000
 ``` 
 * 然后可使用如下链接访问：
-* http://localhost:8000/
+
+http://localhost:8000/
 
 * The data set is obtained from the following data:
 * 数据集根据如下数据处理得到：
-* http://stat-computing.org/dataexpo/2009/the-data.html
+
+http://stat-computing.org/dataexpo/2009/the-data.html
