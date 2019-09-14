@@ -1,6 +1,7 @@
 # Visualization-Flight-Routes-America
 * Visualization of flight route data using D3.js
-* It needs to be opened in a server environment. Please use a simple local server. For example, use python3:
+* It needs to be opened in a server environment. Please use a simple local server.
+For example, use python3:
 ```
 python -m http.server 8000
 ```
@@ -15,7 +16,8 @@ python -m SimpleHTTPServer 8000
 ## 基于美国航班航线数据
 
 * 使用D3.js进行了航线数据的可视化
-* 需要在服务器环境打开，可以使用本地简单服务器,例如,使用python3：
+* 需要在服务器环境打开，可以使用本地简单服务器
+例如,使用python3：
 ```
 python -m http.server 8000
 ```
