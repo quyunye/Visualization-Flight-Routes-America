@@ -1,0 +1,12 @@
+An example method to start a simple server by python:
+
+python3:
+python -m http.server 8000
+http://localhost:8000/
+
+python2:
+python -m SimpleHTTPServer 8000
+http://localhost:8000/
+
+You can start the server in other ways.
+以上是使用python启动简单本地服务器的命令，可以选择其他方式。
